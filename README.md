@@ -1,7 +1,7 @@
 ## Determining financial, situational and demographic factors affecting the health of an individual
 
 ### ISM6562.Big Data for Business Project - Group 2
-
+Presentation link : https://www.youtube.com/watch?v=x0RHXVPTCtk&t=50s
 
 #### Approach:
 
